@@ -1,0 +1,5 @@
+AddDefaultCharset off
+php_flag display_startup_errors off
+php_flag display_errors off
+php_flag html_errors off
+php_flag log_errors off
